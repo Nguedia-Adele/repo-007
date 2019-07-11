@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/repo-007/static/css/main.94ad8322.chunk.css",
+    "main.js": "/repo-007/static/js/main.325d8e45.chunk.js",
+    "main.js.map": "/repo-007/static/js/main.325d8e45.chunk.js.map",
+    "runtime~main.js": "/repo-007/static/js/runtime~main.de91ed84.js",
+    "runtime~main.js.map": "/repo-007/static/js/runtime~main.de91ed84.js.map",
+    "static/css/2.266e55a5.chunk.css": "/repo-007/static/css/2.266e55a5.chunk.css",
+    "static/js/2.baf3c1c8.chunk.js": "/repo-007/static/js/2.baf3c1c8.chunk.js",
+    "static/js/2.baf3c1c8.chunk.js.map": "/repo-007/static/js/2.baf3c1c8.chunk.js.map",
+    "index.html": "/repo-007/index.html",
+    "precache-manifest.e1819253fd195fc1e7e11d74247bfa82.js": "/repo-007/precache-manifest.e1819253fd195fc1e7e11d74247bfa82.js",
+    "service-worker.js": "/repo-007/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/repo-007/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.94ad8322.chunk.css.map": "/repo-007/static/css/main.94ad8322.chunk.css.map"
+  }
+}
